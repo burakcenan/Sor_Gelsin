@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373316015653",
+    "project_id": "sor-gelsin-cc810",
+    "storage_bucket": "sor-gelsin-cc810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373316015653:android:1ec4b91875165c1f1491cc",
+        "android_client_info": {
+          "package_name": "com.sorbakalim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373316015653-vijl0t0p39e345v6n3q11ubdeisa32k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe6RuTogL40-T-JAQ_JZfBtx7VRfQrl18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373316015653-vijl0t0p39e345v6n3q11ubdeisa32k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
